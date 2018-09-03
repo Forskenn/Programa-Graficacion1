@@ -18,8 +18,12 @@ public class Practica1 {
         // TODO code application logic here
         
     }
+    
     public static void SALUDO(){
 	System.out.println("Hola Mundo");
-}
+    }
+    public static void PrimerCommit(){
+	System.out.println("Este es el primer Commit");
+    }
     
 }
