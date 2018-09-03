@@ -16,6 +16,10 @@ public class Practica1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
+    public static void SALUDO(){
+	System.out.println("Hola Mundo");
+}
     
 }
