@@ -25,5 +25,9 @@ public class Practica1 {
     public static void PrimerCommit(){
 	System.out.println("Este es el primer Commit");
     }
+     public static void SegundoCommit(){
+	System.out.println("Este es el segundo Commit");
+    }
+   
     
 }
