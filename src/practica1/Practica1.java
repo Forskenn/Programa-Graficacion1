@@ -20,8 +20,9 @@ public class Practica1 {
     }
     
     public static void SALUDO(){
-	System.out.println("Hola Mundo");
-    }
+
+	System.out.println("Les quiero borrar todo PTL");
+
     public static void PrimerCommit(){
 	System.out.println("Este es el primer Commit");
     }
@@ -34,6 +35,9 @@ public class Practica1 {
     }
         public static void TercerCommit(){
 	System.out.println("Este es el Tercer Commit");
+
     }
-    
+
+	System.out.println("Hola Mundo");
+    }
 }
