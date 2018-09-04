@@ -22,22 +22,5 @@ public class Practica1 {
     public static void SALUDO(){
 
 	System.out.println("Les quiero borrar todo PTL");
-
-    public static void PrimerCommit(){
-	System.out.println("Este es el primer Commit");
-    }
-
-     public static void SegundoCommit(){
-	System.out.println("Este es el segundo Commit");
-    }
-        public static void QuintoCommit(){
-	System.out.println("Este es el Quinto Commit");
-    }
-        public static void TercerCommit(){
-	System.out.println("Este es el Tercer Commit");
-
-    }
-
-	System.out.println("Hola Mundo");
     }
 }
