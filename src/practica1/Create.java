@@ -10,5 +10,8 @@ package practica1;
  * @author Marlon
  */
 public class Create {
+    public static void Hola(){
+        System.out.println("Hola");
+    }
     
 }
