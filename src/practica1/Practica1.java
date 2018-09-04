@@ -27,6 +27,7 @@ public class Practica1 {
     }
     public static void CuartoCommit(){
 	System.out.println("Este es el cuarto Commit");
+        System.out.println("Este es el cuarto Commit");
     }
     
 }
