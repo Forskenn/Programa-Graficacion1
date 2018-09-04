@@ -31,5 +31,8 @@ public class Practica1 {
         public static void QuintoCommit(){
 	System.out.println("Este es el Quinto Commit");
     }
+        public static void TercerCommit(){
+	System.out.println("Este es el Tercer Commit");
+    }
     
 }
